@@ -1,0 +1,6 @@
+body {
+    background-image: url('../../public/bg.jpeg');
+    background-size: cover;
+    /* Adjust this as needed */
+    background-attachment: fixed;
+}
